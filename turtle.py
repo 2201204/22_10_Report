@@ -1,0 +1,12 @@
+print(7*24)
+import turtle
+turtle.shape('turtle')
+turtle.fd(100)
+turtle.lt(100)
+turtle.fd(100)
+turtle.right(90)
+turtle.fd(100)
+turtle.right(90)
+turtle.fd(100)
+turtle.lt(90)
+turtle.fd(100)
